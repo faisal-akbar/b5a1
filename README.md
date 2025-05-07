@@ -35,8 +35,8 @@ In this above example, we define a `Person` type with three properties: `name`, 
 
 
 ### Provide an example of using union and intersection types in TypeScript.
-Union and intersection types in TypeScript are used to combine multiple types into one.
-Union Types- union types help to define new types that can have multiple types. We use the `|` operator to create a union type. Union types are or either, meaning that a variable can be of one type or another.
+Union and intersection types in TypeScript are used to combine multiple types into one.  
+Union Types- union types help to define new types that can have multiple types. We use the `|` operator to create a union type. Union types are or either, meaning that a variable can be of one type or another.  
 Intersection Types- Intersection types help to define new types that combine multiple types. We use the `&` operator to create an intersection type. Intersection types are and, meaning that a variable must satisfy all the types in the intersection.
 
 Example of Union Types:
